@@ -1,2 +1,3 @@
 # hello-world
-Create a Repository example
+"Create a Repository" example
+Test Git and GitHub
